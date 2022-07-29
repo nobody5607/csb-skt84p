@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://nobody5607.github.io/csb-skt84p/static/css/main.bed9c162.chunk.css",
+    "main.js": "https://nobody5607.github.io/csb-skt84p/static/js/main.5c4064e9.chunk.js",
+    "main.js.map": "https://nobody5607.github.io/csb-skt84p/static/js/main.5c4064e9.chunk.js.map",
+    "runtime-main.js": "https://nobody5607.github.io/csb-skt84p/static/js/runtime-main.3e43c167.js",
+    "runtime-main.js.map": "https://nobody5607.github.io/csb-skt84p/static/js/runtime-main.3e43c167.js.map",
+    "static/css/2.984f751f.chunk.css": "https://nobody5607.github.io/csb-skt84p/static/css/2.984f751f.chunk.css",
+    "static/js/2.484bd76c.chunk.js": "https://nobody5607.github.io/csb-skt84p/static/js/2.484bd76c.chunk.js",
+    "static/js/2.484bd76c.chunk.js.map": "https://nobody5607.github.io/csb-skt84p/static/js/2.484bd76c.chunk.js.map",
+    "index.html": "https://nobody5607.github.io/csb-skt84p/index.html",
+    "static/css/2.984f751f.chunk.css.map": "https://nobody5607.github.io/csb-skt84p/static/css/2.984f751f.chunk.css.map",
+    "static/css/main.bed9c162.chunk.css.map": "https://nobody5607.github.io/csb-skt84p/static/css/main.bed9c162.chunk.css.map",
+    "static/js/2.484bd76c.chunk.js.LICENSE.txt": "https://nobody5607.github.io/csb-skt84p/static/js/2.484bd76c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e43c167.js",
+    "static/css/2.984f751f.chunk.css",
+    "static/js/2.484bd76c.chunk.js",
+    "static/css/main.bed9c162.chunk.css",
+    "static/js/main.5c4064e9.chunk.js"
+  ]
+}
